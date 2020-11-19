@@ -1,0 +1,30 @@
+h1{
+    color: darkblue;
+  border: solid;
+}
+.header{
+    background-color: gold;
+    border: solid;
+}
+
+.camel{
+    background-color: darkorchid;
+    display: flex;
+    justify-content: space-around;
+    border:solid;
+    border-radius:50px;
+}
+.cicada{
+    background-color: darkseagreen;
+    display:flex;
+    justify-content: space-around;
+    border: solid;
+    border-radius:50px;
+}
+.pigeon{
+    background-color: lavenderblush;
+    display:flex;
+    justify-content: space-around;
+    border: solid;
+    border-radius:50px;
+}
